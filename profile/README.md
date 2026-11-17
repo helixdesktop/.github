@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helixdesktop/.github/main/brand/helix-logo-vertical-dark.svg">
+    <img src="https://raw.githubusercontent.com/helixdesktop/.github/main/brand/helix-logo-vertical.svg" alt="Helix" width="160">
+  </picture>
+</p>
+
 # Helix
 
 **Helix** is a Wayland desktop environment written in Rust. It starts out compatible with GNOME's public contracts (D-Bus interfaces, GSettings schemas, portals and Wayland protocols) and is designed to grow beyond them.
