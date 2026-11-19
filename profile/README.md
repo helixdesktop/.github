@@ -30,4 +30,6 @@ Download the `.deb` packages from the [desktop releases](https://github.com/heli
 
 New features are written up in [spec](https://github.com/helixdesktop/spec) first and implemented afterwards. Report bugs in the repository the problem is in.
 
+AI-assisted contributions are welcome, held to the same standards as any other: you are responsible for what you submit, test it, and say that a tool helped. See [CONTRIBUTING.md](https://github.com/helixdesktop/.github/blob/main/CONTRIBUTING.md).
+
 All Helix code and documentation is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
