@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helixdesktop/.github/main/brand/helix-logo-vertical-dark.svg">
-    <img src="https://raw.githubusercontent.com/helixdesktop/.github/main/brand/helix-logo-vertical.svg" alt="Helix" width="160">
-  </picture>
+  <img src="https://raw.githubusercontent.com/helixdesktop/.github/main/brand/helix-x-cover.png" alt="Helix: a fresh desktop for Linux, with everything you already use." width="100%">
 </p>
 
 # Helix
