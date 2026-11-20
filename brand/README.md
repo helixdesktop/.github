@@ -8,6 +8,10 @@ The official Helix logos. Use these files as they are: don't redraw, recolour or
 | [`helix-mark-512.png`](helix-mark-512.png) | The mark as a 512×512 PNG | Places that don't take SVG (the GitHub organization avatar, social profiles) |
 | [`helix-logo-vertical.svg`](helix-logo-vertical.svg) | The mark above the "Helix" wordmark | Light backgrounds: READMEs, documents, the website in light mode |
 | [`helix-logo-vertical-dark.svg`](helix-logo-vertical-dark.svg) | The same, with the wordmark in a light ink | Dark backgrounds |
+| [`helix-x-cover.png`](helix-x-cover.png) | A 1500×500 banner: the mark, the wordmark and the tagline on a light background | The X (Twitter) header image, and other social banners |
+| [`helix-x-profile.png`](helix-x-profile.png) | A 400×400 profile picture: the mark on the same background, with room for a circular crop | The X profile picture, and other social profiles |
+
+The `.svg` files next to the two social images are their sources. The banner's tagline is set in Ubuntu Sans, so render it on a system that has that font (`rsvg-convert -w 1500 -h 500 helix-x-cover.svg -o helix-x-cover.png`).
 
 The mark keeps its colours on both light and dark backgrounds. Only the wordmark changes for dark backgrounds.
 
